@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-12T23:01:39 IST" name="Default suite" finished-at="2023-08-12T23:01:53 IST" duration-ms="13979">
+    <groups>
+    </groups>
+    <test started-at="2023-08-12T23:01:39 IST" name="Default test" finished-at="2023-08-12T23:01:53 IST" duration-ms="13979">
+      <class name="com.Automation.FrameworkSetup.AutomationSetup">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Automation.FrameworkSetup.AutomationSetup@7e7be63f]" started-at="2023-08-12T23:01:39 IST" name="setup" finished-at="2023-08-12T23:01:45 IST" duration-ms="6158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test()[pri:0, instance:com.Automation.FrameworkSetup.AutomationSetup@7e7be63f]" started-at="2023-08-12T23:01:45 IST" name="test" finished-at="2023-08-12T23:01:51 IST" duration-ms="6220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Automation.FrameworkSetup.AutomationSetup@7e7be63f]" started-at="2023-08-12T23:01:51 IST" name="teardown" finished-at="2023-08-12T23:01:53 IST" duration-ms="1526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.Automation.FrameworkSetup.AutomationSetup -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
